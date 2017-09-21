@@ -4,6 +4,10 @@
 	process = git-lfs filter-process
 	required = true
 	
+[user]
+	name = Mike Costello
+	email = michael.a.costello@gmail.com
+
 [alias]
 
 	# View abbreviated SHA, description, and history graph of the latest 20 commits
